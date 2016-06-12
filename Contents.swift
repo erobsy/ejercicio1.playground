@@ -18,7 +18,7 @@ for num in 1...100{
     if num>=30 && num<=40{
         text += "Viva Swift!!!"
     }
-    print ("\(num)\t\(text)")
+    print ("#\(num)\t\(text)")
 }
 
 
