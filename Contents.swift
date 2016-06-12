@@ -4,7 +4,7 @@ import UIKit
 
 var text:String
 
-for num in 1...100{
+for num in 0...100{
     text = ""
     if num % 5 == 0{
         text += "Bingo!!! "
